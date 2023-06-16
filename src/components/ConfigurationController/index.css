@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.layout-bg-container {
+  background-color: #475569;
+  font-family: 'Roboto';
+  padding: 10px 10px 10px 50px;
+  display: flex;
+  flex-direction: column;
+}
+.layout-text {
+  color: #f1f5f9;
+  font-size: 30px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.input {
+  height: 20px;
+  width: 30px;
+  cursor: pointer;
+  outline: none;
+}
+.label-text {
+  color: #e2e8f0;
+  font-size: 20px;
+  margin-left: 10px;
+}
